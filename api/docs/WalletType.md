@@ -1,0 +1,10 @@
+# WalletType
+
+
+## Enum
+
+* `Ethereum` (value: `'ETHEREUM'`)
+
+* `Solana` (value: `'SOLANA'`)
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
