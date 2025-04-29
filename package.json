@@ -1,9 +1,9 @@
 {
   "name": "@ledgelabs/ts-axios-api-client",
-  "version": "0.1.11",
+  "version": "1.0",
   "main": "dist/api/index.js",
   "license": "MIT",
-  "description": "Partnership SDK for integrating with Game Studios in order to provide a full event experience.",
+  "description": "Ledge API typescript client for next-app and discord bot",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
