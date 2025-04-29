@@ -1,0 +1,30 @@
+{
+  "name": "@ledgelabs/ts-axios-api-client",
+  "version": "0.1.11",
+  "main": "dist/api/index.js",
+  "license": "MIT",
+  "description": "Partnership SDK for integrating with Game Studios in order to provide a full event experience.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledgelabs/ledge-ts-axios-api-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ledgelabs/ledge-ts-axios-api-client/issues"
+  },
+  "homepage": "https://github.com/ledgelabs/ledge-ts-axios-api-client",
+  "author": "",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
