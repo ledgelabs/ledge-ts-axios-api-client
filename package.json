@@ -21,10 +21,10 @@
   "homepage": "https://github.com/ledgelabs/ledge-ts-axios-api-client",
   "author": "",
   "dependencies": {
-    "@types/node": "^18.15.11",
     "axios": "^1.4.0"
   },
   "devDependencies": {
+    "@types/node": "^18.15.11",
     "typescript": "^5.3.3"
   }
 }
